@@ -96,8 +96,8 @@
 </td>
 <!-- Blockchain Development -->
 <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="50" alt="Solidity" />
-    <br>Solidity
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50" alt="matplot" />
+    <br>Matplot
 </td>
 </tr>
 <tr>
@@ -241,7 +241,7 @@
 
 ### 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devafortun&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Phoenix-ryan-1111&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- activity graph heroku-app start -->
 <p align="center">
