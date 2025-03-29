@@ -241,7 +241,7 @@
 
 ### 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Phoenix-ryan-1111&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Phoenix-ryan-1111&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- activity graph heroku-app start -->
 <p align="center">
