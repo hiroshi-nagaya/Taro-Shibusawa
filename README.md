@@ -16,14 +16,12 @@
 - Committed to **enhancing community engagement and leadership** through programming.👨‍👩‍👧‍👦
 - I value **friendship, time, and trust** in all professional relationships.👯‍♂️
 
-<!---
 ### 🌐 Connect with me:
-- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/softlight1012) - @softlight1012
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/vhUyzmWz) - polygon118
-- [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.16dac497b946b44b?chat) - live:.cid.16dac497b946b44b
-- [![Email](https://img.shields.io/badge/Email-mailto%3Aruka59171%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:ruka59171@gmail.com)
 
--->
+- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Minato_95) - @Minato_95
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/Phoenix_9510) - Phoenix_9510
+<!-- - [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.16dac497b946b44b?chat) - live:.cid.16dac497b946b44b -->
+- # [![Email](https://img.shields.io/badge/Email-mailto%Phoenixryan1111%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:Phoenixryan1111@gmail.com)
 
 ### ⚔ TECHNOLOGY
 
@@ -62,8 +60,8 @@
 
 </td>
     <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" />
-    <br>Vue.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter" />
+    <br>Jupyter
 
 </td>
 </tr>
@@ -83,12 +81,12 @@
     <br>Express.js
 </td>
     <td align="center" width="123.4">
-<img src="https://techstack-generator.vercel.app/graphql-icon.svg" height="50" alt="GraphQL" />
-    <br>GraphQL
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" height="50" alt="kaggle" />
+    <br>Kaggle
 </td>
     <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Go" />
-    <br>Go
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="50" alt=""matlab/>
+    <br>Matlab
 </td>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="50" alt="Svelte" />
 <img width="10" /> -->
