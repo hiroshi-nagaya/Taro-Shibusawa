@@ -4,7 +4,7 @@
       onmouseover="this.style.textDecoration='underline'" 
       onmouseout="this.style.textDecoration='none'">
          <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&width=450&lines=⚡Computer Vision||ML||DL Developer⚡;Live+by+Hope%2C+Stand+up+for+Honor" alt="Typing SVG" /></a>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Condiment&size=28&pause=1000&color=DF1AF7&background=32FF3000&width=435&lines=%E2%9A%A1Computer+Vision%7C%7CML%7C%7CDL+Developer%E2%9A%A1)](https://git.io/typing-svg)
     <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Fullstack+Blockchain+Engineer.;Over+7+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a> -->
   </div>
 <!--        <b>⚡AI Developer⚡</b> -->
